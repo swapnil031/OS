@@ -1,0 +1,14 @@
+total 0
+drwxrwxrwx 1 arko arko 4096 Sep 25  2024 .
+drwxrwxrwx 1 arko arko 4096 Sep 19 21:54 ..
+-rwxrwxrwx 1 arko arko    0 Sep 25  2024 01_correct.txt
+-rwxrwxrwx 1 arko arko    0 Sep 25  2024 02_incorrect.txt
+-rwxrwxrwx 1 arko arko  293 Jul 21 01:18 factorial.sh
+-rwxrwxrwx 1 arko arko  344 Jul 29 21:23 factorial_for.sh
+-rwxrwxrwx 1 arko arko   79 Sep 24 20:30 file.sh
+-rwxrwxrwx 1 arko arko  120 Jul 29 21:54 functions.sh
+-rwxrwxrwx 1 arko arko  327 Jul 29 22:25 gcd_using_func.sh
+-rwxrwxrwx 1 arko arko   92 Sep 24 20:21 hello.txt
+-rwxrwxrwx 1 arko arko  264 Jul 29 22:13 larger_of_three_no.sh
+-rwxrwxrwx 1 arko arko  161 Jul 29 21:36 sum_of_digits.sh
+-rwxrwxrwx 1 arko arko  500 Sep 25  2024 test.sh
