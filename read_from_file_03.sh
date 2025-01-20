@@ -17,3 +17,4 @@ done
 
 mv "$temp" "$test"
 
+#for deleting a record just write continue in line 12
